@@ -6,4 +6,4 @@ Vamos usar também o GitHub Desktop para facilitar.
 Supondo que você já tenha um projeto criado, faça o seguinte: 
 - Abrir o cmd dentro da pasta e digitar o comando ```git init```  
 - Ir no GitHub Desktop e escolher a opção ```Add existing repository``` e selecionar a pasta do projeto
-- Por fim, fazer o commit e publicar. **Atenção:** lembrar de deixar sempre público
+- Por fim, fazer o commit e publicar. **Atenção:** lembrar de deixar sempre público!!!
